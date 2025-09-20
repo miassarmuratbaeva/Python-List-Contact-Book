@@ -2,7 +2,7 @@
 Contact Book
 
 Tavsif:
-    Bu dastur kontaktlar bilan ishlaydi — qo‘shish, ko‘rish, qidirish va
+    Bu dastur kontaktlar bilan ishlaydi — qoshish, ko‘rish, qidirish va
     email bo‘yicha filtrlash. Har bir kontakt "Ism|Telefon|Email" formatida
     list ichida string sifatida saqlanadi.
 """
@@ -30,6 +30,7 @@ def is_valid_contact(contact: str) -> bool:
     Returns:
         bool: To‘g‘ri format bo‘lsa True, aks holda False.
     """
+    
     pass
 
 
